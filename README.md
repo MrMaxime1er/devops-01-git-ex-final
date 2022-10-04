@@ -41,5 +41,5 @@ yarn start
 ## Contributors
 
 Contributors names and contact info
-
+Victor Morabito
 - Dls
