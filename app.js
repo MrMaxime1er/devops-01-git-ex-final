@@ -13,7 +13,7 @@ app.get('/', function (req, res) {
 		title: 'My new title',
 		cards: [
 			{
-				title: 'VM',
+				title: '',
 				author: 'Kurt Wagner',
 				desc: 'Visit ten places on our planet that are undergoing the biggest changes today',
 				imageUrl: 'https://material-components.github.io/material-components-web-catalog/static/media/photos/3x2/2.jpg'
