@@ -10,10 +10,10 @@ app.set('view engine', 'hbs')
 
 app.get('/', function (req, res) {
 	res.render('./views/Home', {
-		title: 'My new title',
+		title: 'VM',
 		cards: [
 			{
-				title: '',
+				title: 'Our Changing Planet',
 				author: 'Kurt Wagner',
 				desc: 'Visit ten places on our planet that are undergoing the biggest changes today',
 				imageUrl: 'https://material-components.github.io/material-components-web-catalog/static/media/photos/3x2/2.jpg'
